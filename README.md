@@ -6,22 +6,22 @@ To use this script, follow the steps below:
 
 1. Clone the repository:
 
-```
+```bash
 git clone https://github.com/imakash-sinha/Wifi-Monitor-Restart.git
 ```
  
 2. Navigate to the script directory:
-```
+```bash
 cd Wifi-Monitor-Restart
 ```
 
 3. Provide execution permissions to the script:
-```
+```bash
 sudo chmod +x Monitor_mode.sh
 ```
 
 4. Execute the script:
-```
+```bash
 bash Monitor_mode.sh
 ```
 
