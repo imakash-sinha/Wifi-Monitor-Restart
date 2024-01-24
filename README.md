@@ -17,7 +17,7 @@ cd Wifi-Monitor-Restart
 
 3. Provide execution permissions to the script:
 ```bash
-sudo chmod +x Monitor_mode.sh
+sudo chmod +x Monitor_Suite.sh
 ```
 
 4. Execute the script:
