@@ -22,8 +22,9 @@ sudo chmod +x Monitor_mode.sh
 
 4. Execute the script:
 ```bash
-bash Monitor_mode.sh
+bash Monitor_Suite.sh
 ```
+5. Select Operation accordingly.
 
 This set of commands ensures a hassle-free experience in managing Monitor Mode for wireless networks. Take advantage of this Monitor Mode Control Script for efficient network configuration on your Kali or Linux system.
 
